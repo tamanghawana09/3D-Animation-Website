@@ -1,6 +1,6 @@
 # 3D-Animation-Website
 <h2>This website is built using HTML,CSS AND JAVASCRIPT.</h2>
-<p> Check out this project in the website : <a href=" https://hawana-3d-animation.netlify.app/"> Click here! </a> </p>
+<p> Check out this project in the website : https://hawana-3d-animation.netlify.app/
 <hr>
 
 -->
